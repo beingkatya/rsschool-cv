@@ -3,26 +3,18 @@
 <head>
 <style>
 body {
-  background-color: pink;
-  color: white;
+  background-color:pink;
+  color: black;
 }
-
-h1 {
-  background-color: gray;
-  color: white;
-}
-
 div {
   background-color: green;
-  color: white;
+  color:white;
 }
 </style>
 </head>
 <body>
-
-<h1>My new page</h1>
-<p>My new page.</p>
-<div>My new page.</div>
-
+<h1> My new page </h1>
+<p> My new page </p>
+<div> My new page </div>
 </body>
 </html>
