@@ -5,6 +5,7 @@
 * Phone: +375 29 794-06-20
 * Email: k.jezierskaja@gmail.com
 * GitHub: beingkatya
+* RSSchool: beingkatya
 
 ## About Me
 As an international relationships graduate I have a strong knowledge of languages and interpersonal communications. As a person who worked in different
